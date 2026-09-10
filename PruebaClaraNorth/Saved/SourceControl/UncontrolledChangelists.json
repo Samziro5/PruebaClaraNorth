@@ -5,7 +5,9 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
-				"C:/Users/samue/Documents/Repositorios/RedBunker/PruebaClaraNorth/PruebaClaraNorth/Content/StarterContent/Architecture/Floor_400x400.uasset"
+				"C:/Users/samue/Documents/Repositorios/RedBunker/PruebaClaraNorth/PruebaClaraNorth/Content/StarterContent/Architecture/Floor_400x400.uasset",
+				"C:/Users/samue/Documents/Repositorios/RedBunker/PruebaClaraNorth/PruebaClaraNorth/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/E/8O/GK06JAEJ82TQ0GA2QB0DJG.uasset",
+				"C:/Users/samue/Documents/Repositorios/RedBunker/PruebaClaraNorth/PruebaClaraNorth/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/5/7E/BEYC27T14FHBU6LF2F60RR.uasset"
 			]
 		}
 	]
